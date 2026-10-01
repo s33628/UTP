@@ -1,3 +1,5 @@
+// TODO: musimy dodac brakujace klasy!
+// OK, ja dodam ‘Adder‘, a s12345 doda ‘Subtractor‘
 class Adder {
     public int add(int a, int b) {
         return a + b;
