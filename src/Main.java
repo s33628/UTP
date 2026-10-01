@@ -7,3 +7,14 @@ public class Main {
     }
 
 }
+class Adder {
+    public int add(int a, int b) {
+        return a + b;
+    }
+}
+
+class Subtractor {
+    public int subtract(int a, int b) {
+        return a - b;
+    }
+}
